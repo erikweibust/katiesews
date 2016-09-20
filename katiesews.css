@@ -2,9 +2,10 @@ body {
 	background-image: url("images/body-bg.gif");
 	background-position: center;
 	color: #708090;
-	font-family: sans-serif;
+	font-family: Georgia, sans-serif;
 	text-align: center;
 	font-size: small;
+	/* line-height: 1.6em; */
 }
 
 h1, h2, h3 {
@@ -12,30 +13,29 @@ h1, h2, h3 {
 }
 
 h1 {
-	font-size: 170%;
+	font-size: 150%;
 }
 
 h2 {
 	font-size: 130%;
 }
 
+/* not sure why this #header selector was here because it's blank */
 #header {
- 
-;
 }
 
 #priceList {
 	background-color: #e6e6fa;
-	
+
 	text-align: left;
-	
+
 	border-color: white;
 	border-style: dashed;
 	border-width: 1px;
 	margin: 0px 175px 0px 175px;
-	
+
 	padding: 10px;
-	
+
 	width: 325px;
 }
 
