@@ -83,7 +83,7 @@ a:hover { color: #F43873; }
 }
 
 .price {
-	font-style: italic;
+	/*font-style: italic;*/
 	font-weight: bold;
 }
 
